@@ -1,0 +1,8 @@
+# basic
+scoop install cmder-full git --global
+
+# programming languages
+scoop install python37 nodejs10 oraclejdk-lts
+
+# dev tools
+scoop install docker docker-compose docker-machine minikube kubectl
